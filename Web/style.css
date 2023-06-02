@@ -7,7 +7,7 @@
 html, body {
   min-height: 100vh;
   background: #000000;
-  background: linear-gradient(135deg, #9b59b6 0%, #8e44ad 100%);
+  background: linear-gradient(135deg, #000000 0%, #8e44ad 100%);
 }
 
 .container {
